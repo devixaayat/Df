@@ -1,5 +1,5 @@
 import json
-import 64bs
+import 64bit 
 
 file = open('your_address_books.json')
 
