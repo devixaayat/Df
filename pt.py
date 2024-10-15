@@ -1,5 +1,5 @@
 import json
-import vobject
+import dobject
 
 file = open('your_address_books.json')
 
