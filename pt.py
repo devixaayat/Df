@@ -1,5 +1,5 @@
 import json
-import dobject
+import 64bs
 
 file = open('your_address_books.json')
 
